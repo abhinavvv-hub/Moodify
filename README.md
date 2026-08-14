@@ -13,7 +13,7 @@ Spotify Player Based on Your Mood
 - Webbrowser
 - Pillow
 
-## Install Dependencies
-'''
+### Install Dependencies
+``
 uv pip freeze --python .venv/bin/python > requirements.txt
-'''
+``
